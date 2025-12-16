@@ -20,10 +20,10 @@ const Tab3: React.FC = () => {
           <IonCard className="card">
             <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
             <IonCardHeader>
-              <IonCardTitle>Ariel Arcentales</IonCardTitle>
-              <IonCardSubtitle>elArielArcentales</IonCardSubtitle>
+              <IonCardTitle>José Herrera</IonCardTitle>
+              <IonCardSubtitle>José Herrera</IonCardSubtitle>
             </IonCardHeader>
-            <IonCardContent>Este es el perfil de Ariel Arcentales</IonCardContent>
+            <IonCardContent>Este es el perfil de José Herrera</IonCardContent>
           </IonCard>
         </div>
       </IonContent>
