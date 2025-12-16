@@ -3,9 +3,9 @@
 
 ## Información del Estudiante
 
-- **Nombre:** [Tu nombre completo aquí]
-- **Carrera:** [Tu carrera]
-- **Fecha de inicio:** [Fecha]
+- **Nombre:** José Herrera
+- **Carrera:** Desarrollo de Software
+- **Fecha de inicio:** 2 de diciembre del 2025
 
 ---
 
