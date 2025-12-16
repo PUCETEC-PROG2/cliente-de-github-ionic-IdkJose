@@ -1,8 +1,15 @@
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import { IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle } from '@ionic/react';
 import './Tab3.css';
+import { useState } from 'react';
 
 const Tab3: React.FC = () => {
+
+  const [userInfo, setUserInfo] = useState({
+    name: "No encontrado",
+
+  })
+
   return (
     <IonPage>
       <IonHeader>
