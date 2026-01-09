@@ -3,7 +3,7 @@
 
 ## Información del Estudiante
 
-- **Nombre:** Camila Sandoval
+- **Nombre:** José Herrera
 - **Carrera:** Desarrollo de software
 - **Fecha de inicio:** 2 de diciembre del 2025
 
